@@ -1,3 +1,9 @@
+To run the program Compile both file and execute the Driver file
+for example : 
+javac AtmMachine.java
+javac AtmMachineDriver.java
+java AtmMachineDriver
+
 Mini Project: ATM Simulation in Core Java
 Before we delve into the logic, we need to perform some initialization steps:
 
